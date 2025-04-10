@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science Engineer** wit
 ---
 
 ## 🛠️ Skills & Technologies
-- **Programming:** Python, SQL, C++, Rust
+- **Programming:** Python, SQL, C, Rust, Java
 - **Machine Learning:** Scikit-learn, TensorFlow, ANN
 - **Data Analysis & Visualization:** Pandas, Matplotlib, Seaborn
 - **Software Development:** Web Development, Cloud Computing
